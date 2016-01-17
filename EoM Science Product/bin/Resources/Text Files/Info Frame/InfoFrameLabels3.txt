@@ -1,0 +1,8 @@
+0/1/BTN_clim0_Sun,The Sun
+1/1/BTN_clim1_Earth,The Earth
+2/2/BTN_clim2_Atmosphere,The Atmosphere/BTN_clim2_Wind,The Wind
+3/4/BTN_clim3_Hydrosphere,The Hydrosphere/BTN_clim3_Salinity,Ocean Salinity/BTN_Empty,Specific Heat Capacity/BTN_clim3_BodiesOfWater,Bodies of Water
+4/3/BTN_clim4_IceCaps,Ice Caps/BTN_clim4_Anthropogenic,Human Activity/BTN_clim4_Effects,The Effects
+
+
+// strandNum/# of JLabels/image name, JLabel Title, etc.

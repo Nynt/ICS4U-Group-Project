@@ -1,0 +1,14 @@
+The metal’s name followed by the non-metal + -ide as the ending. (eg: potassium oxide | K2O)
+- If the ionic compound is a metal bonded with a polyatomic ion; name is the metal’s name followed by the polyatomic ion’s name. (eg: calcium carbonate | Ca(CO3)
+- If the metal in an ionic compound is a mutlivalent metal, write the charge of the metal in roman numerals in brackets next to the metal. (eg: iron (iii) chloride | FeCl3)
+Prefixes: 1 - mono, 2 - di, 3 - tri, 4 - tetra, 5 - penta, 6 - hexa,  etc.
+- Named by listing the names of both non-metals, then adding the matching prefix to the front of each based on the number of each non-metal in the compound.
+*IMPORTANT* Do not add mono- as a prefix to the first non-metal (it is left out).
+- Binary Acids (Hydrogen and an atom) - Start with “hydro”, then change the second element’s name to end with -ic. Add ‘acid’ to the end of the name. (eg: hydrofluoric acid | HF)
+- “Oxo” Acids (Hydrogen and a polyatomic ion) - If the polyatomic ends with -ate, change it to -ic. If the polyatomic ends with -ite, change it to -ous. Start with the name of the polyatomic with the new ending, and add acid to the end. (eg: carbonic acid | H2(CO3) and nitrous acid | HNO2)
+Name the metal (cation) first, then add “hydroxide” to the end. (sodium hydroxide | NaOH)
+
+
+
+// Ionic, Molecular, Acids, Bases
+// contains summary text of topics within the unit

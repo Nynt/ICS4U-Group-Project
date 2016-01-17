@@ -1,0 +1,11 @@
+0/465,229,128,38/113,229,128,38
+1/113,229,128,38/465,229,128,38
+2/521,98,126,41/521,154,126,41/521,210,126,41
+3/129,232,221,48/129,280,221,48/350,280,221,48/350,232,221,48
+
+// (object number) x/y/width/height
+
+//2_0 Biology - Cell Organelles
+//2_1 Biology - Cell Reproduction
+//2_2: Biology - Hierarchy
+//2_3: Biology - Organ Systems

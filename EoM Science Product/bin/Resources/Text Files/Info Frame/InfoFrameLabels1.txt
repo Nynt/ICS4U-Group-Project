@@ -1,0 +1,6 @@
+0/2/BTN_Empty,Light/BTN_Empty,Refraction
+1/2/BTN_Empty,The Sun/BTN_Empty,(Bio)Luminescence 
+2/2/BTN_Empty,Convex Lens/BTN_Empty,Concave Lens 
+3/1/BTN_optics3_SnellsLaw,Snell's Law
+
+// strandNum/# of JLabels/image name, JLabel Title, etc.

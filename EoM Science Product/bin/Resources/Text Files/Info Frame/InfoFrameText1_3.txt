@@ -1,0 +1,4 @@
+When light enters a new medium, the light bends and changes speed depending on the properties of the new medium. Using Snell’s Law, the angle of refraction and the constant of either medium can be found, where theta is the angle and n is the index of refraction within the medium.
+
+
+// contains summary text of topics within the unit

@@ -1,0 +1,5 @@
+The primary source of light for Earth is from the Sun, a self-producing light source. When the light reaches Earth, energy is transferred via radiation to anything it contacts. Light can be produced within living things as well through chemical reactions.
+The production and emission of light from a living organism. The production of light usually comes from chemical reactions within the body, meaning it is a type of chemiluminescence. 
+
+
+// contains summary text of topics within the unit

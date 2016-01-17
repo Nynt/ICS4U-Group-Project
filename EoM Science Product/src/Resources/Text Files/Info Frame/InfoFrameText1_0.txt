@@ -1,0 +1,5 @@
+Visible light is an electromagnetic radiation within the electromagnetic spectrum. Light travels as a propagating wave at a speed of 1.08 x 109 km/h in a vacuum. When light enters a new medium, the wave will bend; this effect is called refraction.
+The change in speed and direction of light due to entering a new medium. Refraction of light is the most commonly seen when light enters water, but it can be observed in any type of wave when it interacts with a new medium.
+
+
+// contains summary text of topics within the unit

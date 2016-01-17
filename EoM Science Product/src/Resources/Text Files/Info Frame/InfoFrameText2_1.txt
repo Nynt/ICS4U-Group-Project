@@ -1,0 +1,7 @@
+Interphase - Chromosomes duplicate, but remain together.
+Prophase - The chromosomes are condensed in the middle of the cell and prepare for the formation of spindle fibers.
+Metaphase - The duplicated chromosomes align in the center of the cell, attached to the two separate centrioles.
+Anaphase - Chromosomes are pulled apart towards the two ends of the cell, creating two pairs of identical chromosomes. 
+Telophase - Nuclear membranes form around the chromosome groups, and the spindle fibres break down. The cell prepares for cell division.
+
+// contains summary text of topics within the unit

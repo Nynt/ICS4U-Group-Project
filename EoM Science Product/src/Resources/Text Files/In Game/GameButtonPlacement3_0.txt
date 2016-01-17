@@ -1,0 +1,8 @@
+0/491,129,55,35/121,129,113,35/117,300,117,35/475,301,87,35
+1/58,150,155,48/480,150,155,48/273,282,155,48
+2/30,157,206,33/462,157,206,33/247,302,206,33
+
+// Screen(question)Num/x,y,width,height/x2,y2,width2,height2/....
+//3_0: Climate - Sun
+
+*multiple choice, button to be correct must match questionNum

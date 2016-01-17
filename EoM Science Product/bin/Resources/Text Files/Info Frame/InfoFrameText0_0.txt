@@ -1,0 +1,11 @@
+2 CO(g) + O2(g) --> 2CO2(g) - The chemical reaction where two or more reactants combine to form a single product. The co-reaction of synthesis is decomposition.
+2HgO ---> 2Hg + O2 - The chemical reaction where reactants break down and produce a greater number of products. The co-reaction of decomposition is synthesis.
+CH4 + 2O2 ---> CO2 + 2H2O - The high-temperature chemical reaction that requires a fuel and oxygen in order to occur. In a complete combustion where the fuel is completely consumed, CO2(g) and H2O(l) will be produced. In an incomplete combustion where there is not enough oxygen to completely consume the fuel, CO(g) and C(s) (soot) will be produced instead. 
+Zn + 2HCl ---> ZnCl2 + H2 - A chemical reaction best defined as when one element or ion moves out from one compound into another. For this reaction to occur, the two elements that are moving must both be either different metals or halogens. The reaction will most likely occur if the element that is being replaced in the compound is less reactive than the other element.
+2KOH + H2SO4 ---> K2SO4 + 2H2O - A chemical reaction where two reacting compounds exchange an ion with each other. The bond between the reacting compounds must be either ionic or covalent. Typically, this reaction results in a precipitate (a solid) forming.
+HCl + NaOH ---> NaCl + H2O - The chemical reaction where an acid and a base react together resulting in no excess hydrogen or hydroxide ions in the solution. The product solution would be a dissociated ion in aqueous solution.
+
+
+
+// Synthesis, Decomposition, Combustion, Single Displacement, Double Displacement, Neutralization
+// contains summary text of topics within the unit

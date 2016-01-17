@@ -1,0 +1,9 @@
+1. Figure out which atom appears the least amount of times.
+2. Find a common multiple between the number of that atom in the reactants and products.
+*Save diatomic and lone atoms for last.
+3. Repeat steps 1 and 2 until the equation is balanced.
+
+
+
+// Synthesis, Decomposition, Combustion, Single Displacement, Double Displacement, Neutralization
+// contains summary text of topics within the unit

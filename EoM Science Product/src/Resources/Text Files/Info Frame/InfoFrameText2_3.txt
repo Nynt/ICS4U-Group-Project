@@ -1,0 +1,6 @@
+Lungs - The essential respiratory organ in most air-breathing animals. Their primary body function is to transport oxygen from outside the body into the bloodstream within the body, as well as releasing carbon dioxide from the body. The lungs are a part of the respiratory system, along with other organs such as the trachea and the diaphragm.
+Heart - The most vital organ within all mammals. The main function of the heart is to pump blood through the blood vessels of the circulatory system. In humans, the heart has four chambers, divided into the upper atrias and the lower ventricles. The heart is an organ within the circulatory system, along with all of the veins and arteries within the body
+Stomach - An organ of the digestive system. The primary function of the stomach is to break down the food that the body eats into simple forms and to absorb all of the nutrients into the body.
+
+
+// contains summary text of topics within the unit

@@ -1,0 +1,7 @@
+0/5/BTN_bio0_Nucleus,Nucleus/BTN_bio0_Ribosomes,Ribosomes/BTN_bio0_CellWall,Cell Wall/BTN_bio0_Chloroplast,Chloroplasts/BTN_bio0_Vacuole,Vacuole
+1/5/BTN_bio1_Interphase,Interphase/BTN_bio1_Prophase,Prophase/BTN_bio1_Metaphase,Metaphase/BTN_bio1_Anaphase,Anaphase/BTN_bio1_Telophase,Telophase
+2/4/BTN_bio2_Cells,Cells/BTN_bio2_Tissues,Tissues/BTN_bio2_Organs,Organs/BTN_bio2_OrganSystems,Organ Systems
+3/3/BTN_Empty,Respiratory System/BTN_Empty,Circulatory System/BTN_Empty,Disgestive System
+
+
+// strandNum/# of JLabels/image name, JLabel Title, etc.

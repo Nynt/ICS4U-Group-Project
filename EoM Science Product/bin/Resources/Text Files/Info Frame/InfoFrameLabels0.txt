@@ -1,0 +1,7 @@
+0/6/BTN_Empty,Synthesis/BTN_Empty,Decomposition/BTN_Empty,Combustion/BTN_Empty,Single Displacement/BTN_Empty,Double Displacement/BTN_Empty,Neutralization
+1/4/BTN_Empty,Balancing Equations/BTN_Empty, /BTN_Empty, /BTN_Empty, 
+2/4/BTN_chem2_Ionic,Ionic Compounds/BTN_chem2_Molecular,Molecular Compounds/BTN_chem2_Acids,Acids/BTN_chem2_Bases,Bases
+3/9/BTN_Empty,Ionic Compounds/BTN_Empty, /BTN_Empty, /BTN_Empty, Molecular Compounds/BTN_Empty, /BTN_Empty, /BTN_Empty,Acids/BTN_Empty, /BTN_Empty,Bases
+
+
+// strandNum/# of JLabels/image name, JLabel Title, etc.

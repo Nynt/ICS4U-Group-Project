@@ -1,0 +1,9 @@
+A spherical organelle that contains many organelles within it. The nucleus controls many functions of the cell and contains chromosomes within it. The nucleus is surrounded by the nuclear membrane.
+Small organelles composed of cytoplasmic granules that habits where protein synthesis takes place.
+A thick, membrane that surrounds a plant cell and gives most of its support and structure. Cell walls bond with other cell walls to form the structure up a plant.
+A molecule that can use light energy from sunlight to turn water and carbon dioxide gas into sugar and oxygen. This process is called photosynthesis. The chlorophyll is usually green and composed of magnesium.
+A fluid-filled cavity surrounded by membranes within the cell. The vacuole fills with food being digested and waste material that is on its way out of the cell.
+
+
+// Nucleus, Ribosomes, Cell Wall, Chloroplasts, Vaculoes
+// contains summary text of topics within the unit

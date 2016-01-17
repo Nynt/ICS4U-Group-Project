@@ -1,0 +1,5 @@
+Earth’s atmosphere consists of layers of gas that protect life on Earth by absorbing the majority of the Sun’s radiation. The atmosphere is also responsible for keeping the Earth warm through the greenhouse effect as well as moderating the temperature between day and night. Through excess production of greenhouse gases by humans, the atmosphere has become increasingly denser, trapping heat on Earth.
+The movement of fluids in the air caused by hot air rising and being filled by cool air. Wind patterns called prevailing winds are created by the focus of heat near the equator. These winds can heavily influence the climate of nearby countries; either bringing moisture to the land or taking it away.
+
+// The Atmosphere, Wind
+// contains summary text of topics within the unit

@@ -1,0 +1,10 @@
+0/584,249,96,74/584,108,96,74
+1/4,5,38,42/465,5,38,42/234,5,38,42
+2/4,5,38,42/465,5,38,42/234,5,38,42
+
+// (object number) x/y/width/height
+
+//2_0 Biology - Cell Organelles
+//2_1 Biology - Cell Reproduction
+//2_2: Biology - Hierarchy
+//2_3: Biology - Organ Systems

@@ -1,0 +1,9 @@
+The basic biological, structural unit that composes of all living organisms. Cells are the smallest unit of life that are capable of replicating independently, stemming the term ‘the building blocks of life’. Similar cells with the same origin and function form together to make tissues. 
+The cellular level between cells and a complete organ. Tissue is formed by a an ensemble of similar cells from the same origin to carry out a specific function. Plants have three types of tissue: epidermis, ground tissue, and vascular tissue. 
+A collection of tissues joined into a unit to serve a single function. Multiple organs serving the same type of body function make up an organ system. In single-celled organisms such as bacteria, the band of tissues that form the organ is called an organelle instead.
+A group of organs that serve together to perform a specific body function. Multiple organ systems in a body make up a working organism
+
+
+
+// Cells, Tissues, Organs, Organ Systems
+// contains summary text of topics within the unit

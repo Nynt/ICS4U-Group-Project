@@ -1,0 +1,5 @@
+A type of lens that is thicker in the centre than at the edges. Rays of light that pass through the lens are brought closer together, giving the term converging lens. When parallel light rays pass through the convex lens, the refracted converge at one point called the principal focus (focus point). The distance between the principal focus and the convex lens is called the focal length.
+A type of lens that is thinner in the centre than at the edges. Rays of light that pass through the lens are spread out, giving the term diverging lens. When parallel rays pass through a concave lens, they diverge and appear to stem from one location called the focal point. The distance from the focal point to the concave lens is called the focal length.
+
+
+// contains summary text of topics within the unit

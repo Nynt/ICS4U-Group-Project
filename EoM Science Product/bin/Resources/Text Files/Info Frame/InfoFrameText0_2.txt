@@ -1,0 +1,8 @@
+eg: LiCL - An ionic compound is formed between a metal and a non-metal/polyatomic ions. High solubility in water (creating a conductive electrolyte). Typically form, crystalline solids which have high melting & boiling points.
+eg: NH3 - A compound formed between multiple non-metals and/or polyatomic ions. Compounds exists in in all three states at room temperature, with typically low melting & boiling points. Poor conductivity and generally low solubility in water.
+eg: HNO3 - with the strongest acids being closer to 0. An acidic compound is usually determined by a hydrogen atom written first in the chemical formula. Acids are known to taste sour, and will turn purple litmus paper red.
+eg: NaOH - Any substance that reacts with acids to form salts. Aqueous basic solutions have a pH of higher than 7, with the strongest bases being closer to 14. A basic compound is usually determined by a hydroxide atom (OH) written last in the chemical formula. Bases are known to taste bitter, and will turn purple litmus paper blue.
+
+
+// Ionic, Molecular, Acids, Bases
+// contains summary text of topics within the unit
