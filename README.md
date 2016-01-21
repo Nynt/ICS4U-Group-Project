@@ -6,5 +6,5 @@ Highschool Gr. 12 computer science group project (Credits to Kevin Sun, Danny Oh
 
 ## Functionality:
 This is a simple Java applet developed with the intent to be implemented into a webpage.
-### * A) The Main Menu:
-      * The user clicks on the menu navigation buttons to reach the various features of the application.
+### A) The Main Menu:
+* The user clicks on the menu navigation buttons to reach the various features of the application.
