@@ -19,3 +19,11 @@ The main purpose was to be used as an interactive reviewer for various course co
 * Upon first booting the program, the user navigates a series of screens explaning the function of the program
 * These screens are toggleable so that the user does not have to see them on each start-up
   * They can be accessed in the 'More' tab from the Main Menu
+
+### C) The In-Game Screens:
+* Upon pressing 'Start' on the Main Menu, the user then selects a unit and a topic
+  * This brings the user to the In-Game screen, where the user can answer a series of multiple choice questions
+
+### D) The Collections Menu:
+* Upon the completion of any topic, the user unlocks the corresponding tab from the 'Collections' Menu
+* The user can click on the tabs to open a small window to review key course concepts
