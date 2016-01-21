@@ -3,7 +3,7 @@ Highschool Gr. 12 computer science group project (Credits to Kevin Sun, Danny Oh
 Uploaded is the Java project folder, which can be imported into a Java IDE, and run via 'Main.java'.
 
 ## Preview Images:
-![alt Preview Image](EOM Square.png)
+![Preview Image](EOM Square.png)
 
 ## Functionality:
 This is a simple Java applet developed with the intent to be implemented into a webpage.
