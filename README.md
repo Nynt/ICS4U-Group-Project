@@ -4,4 +4,4 @@ Highschool Gr. 12 computer science group project. Old design documents and softw
 
 ## Images:
 
-[Read more words!](EOM Square.png)
+![Preview Image](EOM Square.png)
